@@ -17,8 +17,8 @@
   <br>
   <img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=Logstash&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Ignite-F40D12?style=flat-square&logo=Ignite&logoColor=white"/></a>&nbsp
-  <br>
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/></a>&nbsp 
+  <br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
 </p> 
 </p>
