@@ -4,14 +4,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Karim-love&show_icons=true&theme=panda"/></a>&nbsp 
 </p>
+
 -----
 
 <h3 align="center"> About me 👀</h3>
 <p align="center">
-[![백준](https://img.shields.io/badge/백준알고리즘-512BD4?style=flat-square&logo=&logoColor=white)](https://solved.ac/profile/limsu1031)
+  <a href ="https://solved.ac/profile/limsu1031"/><img src="https://img.shields.io/badge/백준알고리즘-512BD4?style=flat-square&logo=&logoColor=white"/></a>
 </p> 
-</p>
-<br></br>
 
 -----
 
