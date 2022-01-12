@@ -4,10 +4,18 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Karim-love&show_icons=true&theme=panda"/></a>&nbsp 
 </p>
+-----
+
+<h3 align="center"> About me 👀</h3>
+<p align="center">
+[![백준](https://img.shields.io/badge/백준알고리즘-512BD4?style=flat-square&logo=&logoColor=white)](https://solved.ac/profile/limsu1031)
+</p> 
+</p>
+<br></br>
 
 -----
 
-<h3 align="center">🌱Teck Stack🌱</h3>
+<h3 align="center"> Teck Stack🌱</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
