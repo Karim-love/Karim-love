@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karim-love&show_icons=true&theme=panda"/></a>&nbsp 
+  <img src="https://github-readme-stats.vercel.app/api?username=Karim-love&show_icons=true&theme=flag-india"/></a>&nbsp 
 </p>
 
 -----
