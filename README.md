@@ -7,13 +7,6 @@
 
 -----
 
-<h3 align="center"> About me 👀</h3>
-<p align="center">
-  <a href ="https://solved.ac/profile/limsu1031"/><img src="https://img.shields.io/badge/백준알고리즘-512BD4?style=flat-square&logo=&logoColor=white"/></a>
-</p> 
-
------
-
 <h3 align="center"> Tech Stack🌱</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
